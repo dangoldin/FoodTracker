@@ -524,6 +524,7 @@
 				4F2F2BD51F19A8E70033D399 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4F2F2BD61F19A8E70033D399 /* Build configuration list for PBXNativeTarget "FoodTrackerTests" */ = {
 			isa = XCConfigurationList;
@@ -532,6 +533,7 @@
 				4F2F2BD81F19A8E70033D399 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4F2F2BD91F19A8E70033D399 /* Build configuration list for PBXNativeTarget "FoodTrackerUITests" */ = {
 			isa = XCConfigurationList;
@@ -540,6 +542,7 @@
 				4F2F2BDB1F19A8E70033D399 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
